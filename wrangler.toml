@@ -1,0 +1,8 @@
+name = "math"
+main = "src/index.ts"
+compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2023-10-30"
+assets = { directory = "./public" }
+
+[placement]
+mode = "smart"
